@@ -1,0 +1,1 @@
+Following the inspiration from DevChallenges.io, I created a basic responsive design for a minimal blog card. Using HTML and CSS, I built a clean and adaptable layout. This layout adjusts seamlessly across various screen sizes, making the blog card suitable for desktops, tablets, and mobile devices.
